@@ -1,0 +1,2 @@
+hostname = "Romit"
+print(hostname)
